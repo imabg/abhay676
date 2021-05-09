@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/abhay676" target="blank"><img src="https://img.shields.io/twitter/follow/abhay676?logo=twitter&style=for-the-badge" alt="abhay676" /></a> </p>
 
-- 🔭 I’m currently working with [Precily Inc.](https://precily.com)
+- 🔭 I’m currently working with [JustDial.](https://jdmart.com)
 
 - 🌱 I’m currently learning **Typescript, Golang and Postgress**
 
