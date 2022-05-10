@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Abhay Goswami</h1>
-<h3 align="center">Developer from India, who loves to code</h3>
+<h3 align="center">Developer from India, Life long learner 🚧</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhay676&label=Profile%20views&color=0e75b6&style=flat" alt="abhay676" /> </p>
 
 <p align="left"> <a href="https://twitter.com/abhay676" target="blank"><img src="https://img.shields.io/twitter/follow/abhay676?logo=twitter&style=for-the-badge" alt="abhay676" /></a> </p>
 
-- 🔭 I’m currently working with [JustDial.](https://jdmart.com)
+- 🔭 I’m currently working with [Roadzen.](https://roadzen.io)
 
-- 🌱 I’m currently learning **Typescript, Golang and Postgress**
+- 🌱 I’m currently learning **Golang and Postgress**
 
-- 💬 Ask me about **Node.js, MongoDB, Javascript and DevOps as well**
+- 💬 Ask me about **Node.js,React.js,  MongoDB, Javascript and System Design**
 
 - 📫 How to reach me **abhaygoswami676@gmail.com**
 
